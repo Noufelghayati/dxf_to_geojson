@@ -6,3 +6,4 @@ This is a simple Azure Map (may also work with Mapbox) converting DXF to GeoJSON
 - dxf-parser.js edited file from https://github.com/gdsestimating/dxf-parser
 
   
+![alt text](https://github.com/Noufelghayati/dxf_to_geojson/blob/main/screenshot.png?raw=true)
