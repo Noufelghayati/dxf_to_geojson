@@ -7,3 +7,5 @@ This is a simple Azure Map (may also work with Mapbox) converting DXF to GeoJSON
 
   
 ![alt text](https://github.com/Noufelghayati/dxf_to_geojson/blob/main/screenshot.png?raw=true)
+
+You can test here: https://noufelghayati.github.io/
